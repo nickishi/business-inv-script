@@ -193,7 +193,7 @@ def main():
    
     sub_button.grid(row = 6, column = 6)
     
-    #window.title(text = "Luis's Cringe Application")
+    #window.title(text = "")
     
     tab_order()
 
